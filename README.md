@@ -7,9 +7,8 @@ Like other to-do list application, our app intend to give customer a place where
 - This window-form app is built by C# language
 - Tools can be used such as Visual Studio, JetBrain Rider, ...
 
-
 ## Screen-shots
-- DashBoard of IT Human Resource app
-![DashBoard](https://github.com/thanhphongchupanh/IT-Human-Resource-Management/blob/main/screenshot/dashboard.jpg)
+- Homepage of Task Management app
+![Homepage](https://github.com/thanhphongchupanh/Task-Management-App/blob/main/screenshot/homepage.jpg)
 
 #### Copyright &#169;2023 thanh.phong
